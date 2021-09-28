@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# This project features the adaptTo() 2021 conference schedule and 
+# feature the usage GraphQL API with Content Fragments in AEM
+
+Internally it uses https://github.com/adobe/aem-headless-client-js
+
+Supporting content package can be found in the /content-package folder.
+
+Please adjust REACT_APP_HOST_URI variable in the .env.development to target the environment you are using, add credentials or dev-token if needed.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
