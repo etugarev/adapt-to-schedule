@@ -1,4 +1,5 @@
 # This project features the adaptTo() 2021 conference schedule and features the usage GraphQL API with Content Fragments in AEM
+![adapt-to-schedule](https://user-images.githubusercontent.com/1071310/135058955-7bce9356-efa6-4ec1-b9ce-2f35b381423a.png)
 
 Internally it uses https://github.com/adobe/aem-headless-client-js
 
