@@ -1,9 +1,9 @@
-# This project features the adaptTo() 2021 conference schedule and usage of GraphQL API with Content Fragments in AEM
+# This project features the [adaptTo()](https://adapt.to/2021/en.html) 2021 conference schedule and usage of Content Fragments GraphQL API in AEM
 ![adapt-to-schedule](https://user-images.githubusercontent.com/1071310/135058955-7bce9356-efa6-4ec1-b9ce-2f35b381423a.png)
 
 Internally it uses https://github.com/adobe/aem-headless-client-js
 
-Supporting content 📦 can be found in [https://github.com/etugarev/adapt-to-schedule/tree/main/content-package] folder.
+Supporting content 📦 can be found in https://github.com/etugarev/adapt-to-schedule/tree/main/content-package folder.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
